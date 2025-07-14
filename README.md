@@ -71,7 +71,7 @@ Active participant in **CTF competitions**, especially in DFIR and reverse engin
   <img src="https://img.shields.io/badge/FTK_Imager-696969?style=for-the-badge"/>
 </p>
 
-<p><em>...and much more.</em></p>
+<h3 align="center"><em>...and much more 🔍</em></h3>
 
 
 ### 🧠 RE & Malware Tools
