@@ -11,9 +11,11 @@
 
 ## 🧑‍💼 About Me
 
-I am a dedicated individual with a strong academic background, having achieved **top rankings in Thanawya Amma 2022**. Currently pursuing an **engineering degree at Egypt University of Informatics**, I am committed to continuous learning and self-growth.
+I am a cybersecurity enthusiast with a strong focus on **Digital Forensics and Incident Response (DFIR)** and **Malware Analysis**. I enjoy investigating incidents, uncovering artifacts, and dissecting malicious behavior.
 
-My primary passion lies in **Digital Forensics and Incident Response (DFIR)** — investigating, uncovering, and remediating cyber incidents. I also enjoy diving into **reverse engineering**, exploring the internals of software to understand, analyze, and sometimes break it. Beyond DFIR and RE, I have a growing interest in **cybersecurity**, **programming**, and solving real-world technical challenges.
+Active participant in **CTF competitions**, especially in DFIR and reverse engineering challenges. Always eager to learn, explore new tools, and solve real-world security problems.
+
+
 
 ---
 
