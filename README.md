@@ -21,34 +21,34 @@ Active participant in **CTF competitions**, especially in DFIR and reverse engin
 
 ## 🛠 Technical Skills
 
-### 🔍 Digital Forensics & Incident Response – **Proficient**
+### 🔍 Digital Forensics & Incident Response
 - Windows & Linux Forensics (Registry, Logs, Artifacts)
 - Memory Analysis, Disk Imaging, Log Correlation
 - Threat Hunting, Timeline Analysis
-- Tools: Volatility, Autopsy, Plaso, Redline, FTK Imager
+- Tools: Volatility, Autopsy, Plaso, FTK Imager, and much more
 
-### 🧪 Reverse Engineering – **Proficient**
+### 🧪 Reverse Engineering
 - Static and Dynamic Analysis
 - Malware Unpacking and Behavior Analysis
 - Tools: Ghidra, IDA Pro, x64dbg, Binary Ninja, dnSpy
 
-### 🛡 Cybersecurity – **Proficient**
+### 🛡 Cybersecurity
 - SIEM, DLP (Symantec), Email Gateway, Proxy, EDR
 - Threat Intelligence & Malware Analysis
 - Incident Response Strategy & Playbooks
 
-### 🖥 Operating Systems – **Proficient**
+### 🖥 Operating Systems
 - Linux, Kali Linux
 - Windows Server (Active Directory)
 
-### 🌐 Networking & Protocols – **Competent**
+### 🌐 Networking & Protocols
 - Network Capture Analysis, TCP/IP, DNS, HTTP/S
 
-### 🧑‍💻 Programming Languages & Concepts – **Proficient**
+### 🧑‍💻 Programming Languages & Concepts
 - C, C++, Python
 - OOP, Data Structures, Design Patterns
 
-### 📊 Data Science – **Competent**
+### 📊 Data Science
 - Data Analysis, Machine Learning
 
 ---
@@ -68,9 +68,11 @@ Active participant in **CTF competitions**, especially in DFIR and reverse engin
   <img src="https://img.shields.io/badge/Volatility-556B2F?style=for-the-badge&logo=forensic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-003366?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plaso-5B5EA6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Redline-B22222?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FTK_Imager-696969?style=for-the-badge"/>
 </p>
+
+<p><em>...and much more.</em></p>
+
 
 ### 🧠 RE & Malware Tools
 <p>
