@@ -11,10 +11,10 @@
 
 ## 🧑‍💼 About Me
 
-I am a cybersecurity enthusiast with a strong focus on **Digital Forensics and Incident Response (DFIR)** and **Malware Analysis**. I enjoy investigating incidents, uncovering artifacts, and dissecting malicious behavior.
-
-Active participant in **CTF competitions**, especially in DFIR and reverse engineering challenges. Always eager to learn, explore new tools, and solve real-world security problems.
-
+Dedicated dual-degree engineering student at Egypt University of Informatics and Purdue University, ranked among the top in Thanawya
+ Amma 2022. Passionate about cybersecurity with a focus on Digital Forensics, Incident Response (DFIR), and Malware Analysis. Active CTF
+ participant in DFIR and reverse engineering challenges, with strong interests in programming, problem-solving, and continuous learning to
+ tackle real-world security issues.
 
 
 ---
